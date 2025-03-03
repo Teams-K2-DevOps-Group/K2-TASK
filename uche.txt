@@ -1,2 +1,3 @@
 distribution while A p-value represents the probability of obtaining a z-score at least as extreme as the observed one, assuming the null hypothesis (Ho) is true.
 The higher absolute Z-score the lower the P-value
+hfdhh
