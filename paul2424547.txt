@@ -1,3 +1,0 @@
-Name: Paul Nwamini
-ID: 2424547
-Course: DEVOPS
